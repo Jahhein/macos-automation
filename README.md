@@ -30,6 +30,12 @@ macOS available automations
 - [Timing](https://timingapp.com/)
 
 
+## Podcasts
+
+- [Automators](https://automators.fm/)
+- [Mac Power Users](https://www.relay.fm/mpu)
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](.github/CONTRIBUTING.md) first.
