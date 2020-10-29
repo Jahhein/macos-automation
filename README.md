@@ -16,6 +16,20 @@ macOS available automations
 - [Homekit](https://support.apple.com/guide/home/welcome/mac)
 
 
+## Apps
+
+- [Alfred](https://www.alfredapp.com/)
+    - [Alfred Remote](https://www.alfredapp.com/remote/)
+- [BetterTouchTool](https://folivora.ai/)
+    - [BTT Remote](https://folivora.ai/bttremote/)
+- [Drafts](https://getdrafts.com/)
+- [Hammerspoon](https://www.hammerspoon.org/)
+- [Hazel](https://www.noodlesoft.com/)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
+- [PopClip](https://pilotmoon.com/popclip/)
+- [Timing](https://timingapp.com/)
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](.github/CONTRIBUTING.md) first.
