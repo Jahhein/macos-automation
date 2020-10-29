@@ -30,10 +30,27 @@ macOS available automations
 - [Timing](https://timingapp.com/)
 
 
+## Scripting
+
+In Progress.
+
+
+## CLI
+
+In Progress.
+
+
 ## Podcasts
 
 - [Automators](https://automators.fm/)
 - [Mac Power Users](https://www.relay.fm/mpu)
+
+
+## Further References
+
+- [Macosxautomation](https://www.macosxautomation.com/)
+- [Automators.fm Discourse](https://talk.automators.fm/)
+- [Mac Power Users Discourse](https://talk.macpowerusers.com/)
 
 
 ## Contribute
